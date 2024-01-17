@@ -1,2 +1,2 @@
 # testrepo
-creating test repo for first assignment
+Used in 2024 spring semester
